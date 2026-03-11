@@ -1,0 +1,13 @@
+<svg width="40" height="28" viewBox="0 0 40 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="28" rx="4" fill="white"/>
+  <rect x="0.5" y="0.5" width="39" height="27" rx="3.5" stroke="#D1D5DB"/>
+  <!-- DISCOVER text -->
+  <text x="7" y="16.5" font-family="system-ui, sans-serif" font-size="7.5" font-weight="900" fill="#1A1A1A" letter-spacing="0.8">DISC</text>
+  <!-- Orange dot as O -->
+  <circle cx="25" cy="13.5" r="3.2" fill="#F47B20"/>
+  <text x="28.5" y="16.5" font-family="system-ui, sans-serif" font-size="7.5" font-weight="900" fill="#1A1A1A" letter-spacing="0.8">VER</text>
+  <!-- Registered trademark -->
+  <text x="39" y="11" font-family="system-ui, sans-serif" font-size="4" fill="#1A1A1A">®</text>
+  <!-- Orange swoosh at bottom -->
+  <path d="M16 28 Q24 18 40 20 L40 28 Z" fill="#F47B20" opacity="0.9"/>
+</svg>
